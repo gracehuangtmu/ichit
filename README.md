@@ -6,5 +6,3 @@ Public website of the International Center for Health Information Technology (IC
 
 - English by default; switch to Traditional Chinese with the EN / 中文 button, or add `?lang=zh` to any URL.
 - Static HTML, no build step. Fonts: Poppins and Noto Sans TC (Google Fonts).
-
-Layout adapted from Hifsa Saleem, *Islamia University Website Redesign* (Figma Community, CC BY 4.0).
